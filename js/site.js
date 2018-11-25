@@ -49,3 +49,39 @@ function hslColor(h, s, l) {
 
 
 /* START WRITING YOUR CODE BELOW */
+
+
+var quotes = ["Put a hex on a gemini (the worst sign).",
+"Compare astrological birth charts with friends.",
+"Dry sage to burn for its cleansing properties.",
+"Wash your crystals in the ocean to reset their energies.",
+"Get amethyst for your desk - it will make you more productive and energetic!",
+"Bump anything by The Hex Girls at the club.",
+"Binge the Twitches movies.",
+"Listen to Stevie Nicks, the White Witch, while in the woods.",
+"Create your own coven or join one. There is nothing like the bond between like-minded witches!",
+"Make your own amulet. Amulets are used as objects for protection and for strength for spells, usually worn around the neck.",
+"If you want to break a hex you can’t go past the hydrangea, as it has natural protection properties, it can be placed around the home, carried in a mojo bag or grown in your garden.",
+"In ancient Greece the petals and leaves of roses were used to foretell the future, a rose with a concave shape is for answering a yes or no question, the diviner holds the rose petal and meditates, then presses both hands together in a clapping motion. A burst petal is a yes answer and a whole petal is a no answer.",
+"Embroider positive affirmations into your shirts or pillows.",
+"Place lavender under your pillow to help you sleep.",
+"Make your own tarot cards. You don’t have to be an artist to do this. Let your creativity take you places!",
+"Go to the farmers’ market and collect scraps for composting. We witches are environmentally conscious.",
+"Walk around barefoot in a forest on a damp day. Forage for mushrooms.",
+"Witch’s hazel is a good toner that won’t dry out your skin. Use it after washing your face to balance out your skin’s pH.",
+]
+
+
+function newQuote() {
+  var randomNumber = Math.floor(Math.random() * (quotes.length));
+  document.getElementById('quoteDisplay').innerHTML = quotes [randomNumber];
+}
+
+
+
+
+
+
+
+
+
