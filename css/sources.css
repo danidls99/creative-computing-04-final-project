@@ -36,7 +36,7 @@ body {
 
 .sources {
   font-family: 'Federant', cursive;
-  font-size: 30px;
+  font-size: 25px;
   text-align: center;
   margin-top: 50px;
   color:hsl(235, 72%, 90%);
@@ -45,7 +45,7 @@ body {
 
 
 
-.potion {
+.ghost {
   /* width: 50px;
   height: auto;
   animation: spin 2s infinite cubic-bezier(.85,.01,.25,1);*/

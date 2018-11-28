@@ -84,9 +84,9 @@ body {
 
 }
 
-.sources {
+.source {
   font-family: 'Federant', cursive;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
   margin-top: 50px;
   color:hsl(235, 72%, 90%);
