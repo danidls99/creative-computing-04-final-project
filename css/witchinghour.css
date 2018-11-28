@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  background:hsl(235, 18%, 13%);
+  background:black;
 }
 
 html {
@@ -24,14 +24,24 @@ body {
   width: auto;
 }
 
+.header {
+  height: 100%;
+  width: 100%;
+  font-family: 'Federant', cursive;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 75px;
+  color:hsl(0, 90%, 42%);
+}
+
 .content {
   height: 100%;
   width: 100%;
   font-family: 'Playfair Display', serif;
   font-size: 70px;
   text-align: center;
-  margin-top: 100px;
-  color:hsl(235, 72%, 90%);
+  margin-top: 50px;
+  color:hsl(0, 90%, 42%);
 }
 
 .subtext {
@@ -39,12 +49,12 @@ body {
   font-size: 30px;
   text-align: center;
   margin-top: 50px;
-  color:hsl(235, 72%, 90%);
+  color:white;
 }
 
 .button {
-  background:hsl(235, 14%, 30%);
-  color:hsl(235, 72%, 90%);
+  background:hsl(0, 90%, 42%);
+  color:white;
     border: none;
     padding: 16px;
     text-align: center;
@@ -56,18 +66,16 @@ body {
     transition-duration: 0.4s;
     cursor: pointer;
     border-radius: 8px;
+
   }
 
 .button:hover {
- background: hsl(237, 41%, 71%);
+ background: white;
   color: hsl(235, 14%, 30%);
 }
 
-.potion {
-  /* width: 50px;
-  height: auto;
-  animation: spin 2s infinite cubic-bezier(.85,.01,.25,1);*/
-  margin-top: 30px;
+.pentagram {
+  margin-top: 50px;
   text-align: center;
 }
 
@@ -79,19 +87,19 @@ body {
   margin-top: 50px;
   margin-right: 200px;
   margin-left: 200px;
-  color:hsl(237, 41%, 71%);
+  color:hsl(0, 90%, 42%);
 
 
 }
 
-.sources {
-  font-family: 'Federant', cursive;
-  font-size: 30px;
-  text-align: center;
-  margin-top: 50px;
-  color:hsl(235, 72%, 90%);
-}
 
-
+/*@keyframes spin {
+  0% {
+    transform: rotateX(-20deg) rotateY(20deg);
+  }
+  100% {
+    transform: rotateX(-20deg) rotateY(740deg);
+  }
+}*/
 
 

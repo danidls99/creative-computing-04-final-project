@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+  background:hsl(235, 18%, 13%);
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  height: auto;
+  width: auto;
+}
+
+.content {
+  height: 100%;
+  width: 100%;
+  font-family: 'Playfair Display', serif;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 50px;
+  color:hsl(235, 72%, 90%);
+}
+
+.sources {
+  font-family: 'Federant', cursive;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 50px;
+  color:hsl(235, 72%, 90%);
+}
+
+
+
+
+.potion {
+  /* width: 50px;
+  height: auto;
+  animation: spin 2s infinite cubic-bezier(.85,.01,.25,1);*/
+  margin-top: 30px;
+  text-align: center;
+}
+
+
+
+
+
+/*@keyframes spin {
+  0% {
+    transform: rotateX(-20deg) rotateY(20deg);
+  }
+  100% {
+    transform: rotateX(-20deg) rotateY(740deg);
+  }
+}*/
+
+

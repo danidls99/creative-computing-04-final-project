@@ -69,6 +69,11 @@ var quotes = ["Put a hex on a gemini (the worst sign).",
 "Go to the farmers’ market and collect scraps for composting. We witches are environmentally conscious.",
 "Walk around barefoot in a forest on a damp day. Forage for mushrooms.",
 "Witch’s hazel is a good toner that won’t dry out your skin. Use it after washing your face to balance out your skin’s pH.",
+"Perform a seance in a graveyard. Wear all white and slow dance with a ghost.",
+"Gentleness is powerful. Don’t let yourself become closed off. Stay light, open and full of love.‬",
+"There is some speculation that raw crystals are more powerful than tumbled, but I don’t believe that. I think it’s more important to work with whatever crystals you feel called to at each moment. Tumbled are also easier to carry around with you throughout the day.",
+"It’s important to review your whole birth chart. The Sun affects your personality, the Moon your mood, Mars stimulates and moves you to action, Mercury is all about communication, Venus is of course love and sensuality, Jupiter serendipity and growth, Saturn offers challenges, with Uranus everything hidden surfaces, it creates change whether you are ready for it or not, it also inspires original thinking, Neptune the higher self, spirituality and  dreams, while Pluto has the butterfly effect of transformation.",
+
 ]
 
 
@@ -78,6 +83,13 @@ function newQuote() {
 }
 
 
+      var currentTime = new Date().getHours();
+
+      if (0 <= currentTime&&currentTime < 2) {
+       window.location.href = "index witching hour.html"; 
+     }
+
+  
 
 
 
