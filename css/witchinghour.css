@@ -92,6 +92,10 @@ body {
 
 }
 
+embed{
+  text-align: center;
+}
+
 
 /*@keyframes spin {
   0% {

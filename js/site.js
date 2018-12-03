@@ -69,10 +69,16 @@ var quotes = ["Put a hex on a gemini (the worst sign).",
 "Go to the farmers’ market and collect scraps for composting. We witches are environmentally conscious.",
 "Walk around barefoot in a forest on a damp day. Forage for mushrooms.",
 "Witch’s hazel is a good toner that won’t dry out your skin. Use it after washing your face to balance out your skin’s pH.",
-"Perform a seance in a graveyard. Wear all white and slow dance with a ghost.",
 "Gentleness is powerful. Don’t let yourself become closed off. Stay light, open and full of love.‬",
 "There is some speculation that raw crystals are more powerful than tumbled, but I don’t believe that. I think it’s more important to work with whatever crystals you feel called to at each moment. Tumbled are also easier to carry around with you throughout the day.",
 "It’s important to review your whole birth chart. The Sun affects your personality, the Moon your mood, Mars stimulates and moves you to action, Mercury is all about communication, Venus is of course love and sensuality, Jupiter serendipity and growth, Saturn offers challenges, with Uranus everything hidden surfaces, it creates change whether you are ready for it or not, it also inspires original thinking, Neptune the higher self, spirituality and  dreams, while Pluto has the butterfly effect of transformation.",
+"Get in touch with your moon and rising signs. Your moon sign controls your mood, Your rising sign determines how you come off to others during first impressions.", 
+"Never ever make a person mad whose Mars is in Scorpio. They will obliterate you.",
+"Acquire a familiar. These are supernatural entities disguised as pets or wildlife that will assist you in your magic.",
+"You cannot be a witch if you have not seen Hocus Pocus. Go watch it now.",
+"Create your own altar with things that inspire you and give you strength. Things to put on your altar can include: candles, herbs, crystals, incense, various tools. It is tradition to represent symbols of the four classical elements. Typically, these are aligned with the four cardinal directions. Use a bowl of dirt or sand in the north aspect of your altar to represent earth, a stick of incense in the east can symbolize air, a candle or charcoal in the south for fire, and water in the west.",
+"An important possession of a witch is their Book of Shadows. This is essentially a journal documenting all and any magic you attempt to do. It can also include notes on any herbs, crystals, oils, or incense that you decide to use.",
+
 
 ]
 

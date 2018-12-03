@@ -84,13 +84,27 @@ body {
 
 }
 
-.source {
+a:link {
   font-family: 'Federant', cursive;
   font-size: 20px;
   text-align: center;
   margin-top: 50px;
-  color:hsl(235, 72%, 90%);
+  color:white;
 }
+
+a:visited {
+  color: hsl(235, 72%, 90%);
+
+}
+
+.source {
+  text-align: center;
+}
+
+embed {
+  align-content: center;
+}
+
 
 
 

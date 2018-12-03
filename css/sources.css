@@ -46,24 +46,35 @@ body {
 
 
 .ghost {
-  /* width: 50px;
-  height: auto;
-  animation: spin 2s infinite cubic-bezier(.85,.01,.25,1);*/
+ 
   margin-top: 30px;
   text-align: center;
 }
 
+a:link {
+  font-family: 'Federant', cursive;
+  font-size: 20px;
+  text-align: center;
+  color:white;
+}
 
+a:visited {
+  color: hsl(235, 72%, 90%);
 
+}
 
+.sources {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+  color:hsl(237, 41%, 71%);
+}
 
-/*@keyframes spin {
-  0% {
-    transform: rotateX(-20deg) rotateY(20deg);
-  }
-  100% {
-    transform: rotateX(-20deg) rotateY(740deg);
-  }
-}*/
+.links {
+  line-height: 70%;
+}
 
 

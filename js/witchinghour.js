@@ -61,6 +61,13 @@ var quotes = [
 "Burn sandalwood or sandalwood-scented candles. This is the all-purpose scent for healing and protection.",
 "Bathe in lavender. Lavender has the following magical properties: sleep, long life, peace, wishes, protection, love, purification, visions, attracting men, clarity of thought.",
 "Reoccurring dreams are normally stuck energy from past life traumas that are trying to clear. If you can decipher the root feelings related to the fear in the dreams, they will start to dissipate and release.",
+"Perform a seance in a graveyard. Wear all white and slow dance with a ghost.",
+"Before you go to sleep, charge your crystals in the moonlight by placing them by a window where moonlight streams through.",
+"Herbs associated with speaking to the dead include: bamboo, althea, anise, balsam tree, pipsissewa, sandalwood, dandelion, catnip, thistle, willow, wormwood and tobacco.",
+"Watch all the Halloweentown movies even if it’s not Halloween.",
+"On the night of a full moon, find a grassy patch to lay in and bask in the energy of the moonlight.",
+"The Witching Hour is the time when the veil between here and the spirit realm is the thinnest. Perform any type of magic that involves the dead during this time.",
+
 
 
 ]
